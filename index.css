@@ -1,0 +1,14 @@
+
+:root{
+	--verylight: #252839;
+	--light: #677077;
+	--dark: #EFEFEF;
+	--verydark: #f2b632;
+}
+
+.background{
+	background-image: url("http://andell.eu/static/media/background.bc61ac88.png");
+	backgroundRepeat: repeat-y;
+	positon: absolute;
+	paddingBottom:500px;
+}
